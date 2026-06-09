@@ -24,3 +24,4 @@ feat: enrollment UI
 fix: responsive issues
 refactor: optimize components
 feat: add loading states
+feat: improve UX
