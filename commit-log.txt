@@ -11,3 +11,4 @@ feat: create course details page
 feat: create login page UI
 feat: create register page UI
 feat: setup auth context
+feat: integrate login API
