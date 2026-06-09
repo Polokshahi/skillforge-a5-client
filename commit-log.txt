@@ -27,3 +27,4 @@ feat: add loading states
 feat: improve UX
 feat: finalize UI polish
 chore: cleanup code
+chore: prepare production build
