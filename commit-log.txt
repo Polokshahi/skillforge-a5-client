@@ -18,3 +18,4 @@ feat: setup protected routes
 feat: build dashboard UI
 feat: build profile page UI
 feat: edit profile feature
+feat: search courses UI
