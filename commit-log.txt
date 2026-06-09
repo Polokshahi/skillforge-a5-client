@@ -4,3 +4,4 @@ feat: create layout structure
 feat: build navbar component
 feat: build footer component
 feat: create homepage UI
+feat: create hero section
