@@ -22,3 +22,4 @@ feat: search courses UI
 feat: category filter UI
 feat: enrollment UI
 fix: responsive issues
+refactor: optimize components
