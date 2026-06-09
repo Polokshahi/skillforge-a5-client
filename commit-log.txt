@@ -13,3 +13,4 @@ feat: create register page UI
 feat: setup auth context
 feat: integrate login API
 feat: integrate register API
+feat: store JWT token
