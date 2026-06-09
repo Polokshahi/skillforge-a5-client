@@ -1,1 +1,2 @@
 chore: initialize frontend project
+chore: setup Tailwind config
