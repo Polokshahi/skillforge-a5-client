@@ -16,3 +16,4 @@ feat: integrate register API
 feat: store JWT token
 feat: setup protected routes
 feat: build dashboard UI
+feat: build profile page UI
