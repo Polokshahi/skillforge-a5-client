@@ -23,3 +23,4 @@ feat: category filter UI
 feat: enrollment UI
 fix: responsive issues
 refactor: optimize components
+feat: add loading states
