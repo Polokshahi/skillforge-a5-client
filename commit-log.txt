@@ -20,3 +20,4 @@ feat: build profile page UI
 feat: edit profile feature
 feat: search courses UI
 feat: category filter UI
+feat: enrollment UI
