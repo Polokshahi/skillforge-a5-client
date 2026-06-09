@@ -14,3 +14,4 @@ feat: setup auth context
 feat: integrate login API
 feat: integrate register API
 feat: store JWT token
+feat: setup protected routes
