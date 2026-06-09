@@ -7,3 +7,4 @@ feat: create homepage UI
 feat: create hero section
 feat: create course card component
 feat: create course listing page
+feat: create course details page
