@@ -8,3 +8,4 @@ feat: create hero section
 feat: create course card component
 feat: create course listing page
 feat: create course details page
+feat: create login page UI
