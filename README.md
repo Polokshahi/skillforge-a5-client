@@ -3,10 +3,9 @@
 SkillForge Academy is a modern, full-stack e-learning and course-selling platform. This repository contains the frontend client application built using **Next.js 15 (App Router)**, **React 19**, **TypeScript**, and **Tailwind CSS v4**.
 
 ## 🚀 Live Links & Assignment Deliverables
-- **Frontend Live URL:** [Insert Vercel Live URL here]
-- **Backend API Live URL:** [Insert Render/Railway Live URL here]
-- **Backend Repository:** [Insert Backend GitHub Link here]
-- **Demo Video (5-10 min):** [Insert Google Drive/Loom Link here]
+- **Frontend Live URL:** https://skillforge-a5-client.netlify.app/
+- **Backend API Live URL:** https://skillforge-a5-server.vercel.app/
+- **Backend Repository:** https://github.com/Polokshahi/skillforge-a5-server
 
 ---
 
